@@ -1,3 +1,3 @@
 # ReactJSWorkspace
 
-This is ReactJSWorkspace (Nomadcoder lecture) by KYW
+This is ReactJSWorkspace (Nomad Coders lecture) by KYW
