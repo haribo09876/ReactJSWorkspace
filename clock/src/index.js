@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Clock from "./Clock/Clock.jsx";
+import Clock from "./Clock.jsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
