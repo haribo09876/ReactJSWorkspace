@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Notification from "./Notification.jsx";
+import NotificationList from "./NotificationList";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Notification />);
+root.render(<NotificationList />);
