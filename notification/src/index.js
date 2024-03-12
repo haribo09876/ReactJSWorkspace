@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import CommentList from "./CommentList";
+import Notification from "./Notification.jsx";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(<CommentList />);
+root.render(<Notification />);
